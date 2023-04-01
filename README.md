@@ -44,7 +44,17 @@ _Para efectos practicos el proyecto ya cuenta con un primer programa main para c
 Estos "programas" main se podra ver en funcionamiento cada uno de los metodos que implementan las clases
 de listas tanto simplmente ligada como doblemente ligada
 
+### Clonar repositorio
+
+Para poder clonar el repositorio con el proyecto completo se necesita abrir una terminal el la ubicación donde queremos
+que se guarde el proyecto:
+
+```
+S git clone https://github.com/MoniGarcilazo/ADA06_E02.git 
+```
+
+
 ## Autores ✒️
 
-* **Alvarado Interian, Ruben** - *Desarrollo, debugging y documentacion* - [kirake-a](https://gist.github.com/kirake-a)
+* **Alvarado Interian, Ruben** - *Desarrollo, debugging y documentacion* - [Ruben](https://gist.github.com/kirake-a)
 * **Garcilazo Cuevas, Monica** - *Desarrollo, debugging, documentacion* - [Monica](https://github.com/MoniGarcilazo)
